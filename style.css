@@ -1,0 +1,48 @@
+*{
+    margin:o;
+    padding:0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    background-color: rgb(11, 11, 10);
+    color: white;
+    justify-content:space-between;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    margin: 0 10px;
+}
+nav ul li{
+    margin: 0 10px;
+    padding: 10px 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color:rgb(24, 254, 12)
+}
+nav ul li a: :hover{
+    color:read-only;
+}
+button{
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: name;
+    outline: none;
+    color: white;
+    font-weight: bold;
+    margin-top: 20PX;
+}
+.signin{
+    background-color: rgb(6, 242, 41);
+    margin-left: 400px;
+}
+.signup{
+    background-color: rgb(35, 8, 243);
+}
